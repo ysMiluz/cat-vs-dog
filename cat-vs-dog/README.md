@@ -4,8 +4,9 @@
 Train a deep learning model to classify cats vs dogs using fastai's transfer learning on the Oxford-IIIT Pets dataset.
 
 
-##
-```cat-vs-dog/
+## Project Structure
+```
+cat-vs-dog/
 │
 ├── lesson1_catdog.ipynb   # 完整 Notebook
 ├── README.md              # 项目介绍
