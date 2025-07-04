@@ -11,6 +11,17 @@ cat-vs-dog/
 └── images/
     └── gradcam_example.png  # GradCAM 示例图
 
+##
+cat-vs-dog/
+│
+├── lesson1_catdog.ipynb   # 完整 Notebook
+├── README.md              # 项目介绍
+├── requirements.txt       # 依赖
+├── .gitignore             # 忽略缓存
+└── images/
+    └── gradcam_example.png  # GradCAM 示例图
+
+
 ## 🚀 Quickstart
 ```bash
 pip install -r requirements.txt
