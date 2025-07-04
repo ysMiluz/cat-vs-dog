@@ -5,7 +5,7 @@ Train a deep learning model to classify cats vs dogs using fastai's transfer lea
 
 
 ##
-cat-vs-dog/
+```cat-vs-dog/
 │
 ├── lesson1_catdog.ipynb   # 完整 Notebook
 ├── README.md              # 项目介绍
@@ -13,7 +13,7 @@ cat-vs-dog/
 ├── .gitignore             # 忽略缓存
 └── images/
     └── gradcam_example.png  # GradCAM 示例图
-
+```
 
 ## 🚀 Quickstart
 ```bash
